@@ -219,9 +219,8 @@ By completing these assignments, you will be able to:
    - Progress through assignments sequentially
    - Complete practice tests to assess understanding
 
-4. **Use the Demo Notebooks**:
-   - `Data Wrangling [DEMO].ipynb` - Step-by-step explanations
-   - `Data Wrangling [Classwork].ipynb` - Guided practice
+4. **Use the Classwork Notebook**:
+   - `Data_Wrangling_Classwork.ipynb` - Step-by-step explanations
 
 ## Requirements
 - Python 3.x
